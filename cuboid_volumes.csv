@@ -1,0 +1,9 @@
+Filename,Cuboid_Volume (Å³),Cube_Volume (Å³),Num_Atoms,Length (Å),Width (Å),Height (Å)
+ROMP_chair_last_geom.txt,503.35,1262.16,62,10.81,7.18,6.49
+ROMP_twistboat_last_geom.txt,457.73,1394.98,62,11.17,6.60,6.21
+addpoly_chair_last_geom.txt,365.08,1595.08,58,11.68,5.56,5.62
+addpoly_twistboat_last_geom.txt,318.00,1605.84,58,11.71,5.23,5.19
+dcbod_chair_last_geom.txt,154.83,1049.26,32,10.16,5.09,3.00
+dcbod_twistboat_last_geom.txt,201.13,413.43,32,7.45,5.45,4.95
+monomer_chair_last_geom.txt,202.93,904.28,42,9.67,5.09,4.13
+monomer_twistboat_last_geom.txt,211.08,770.12,42,9.17,5.31,4.33
